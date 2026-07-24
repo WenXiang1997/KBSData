@@ -1,2 +1,2 @@
 # KBSData
-This is the explanation of data related to the paper
+This is the explanation of data related to the paper.
